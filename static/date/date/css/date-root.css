@@ -2,12 +2,12 @@
 /* use with var(--color); included in base.html*/
 
 :root {
-    --primaryColor: #000;
-    --primaryColorLight:  #202020;
-    --primaryColorLighte:#3d3d3d;
-    --primaryColorLighter:#505050;
-    --primaryColorTransparent: rgba(0,0,0,0.9);
-    --primaryColorTransparenter: rgba(0,0,0,0.8);
+    --primaryColor: #1b7cc2;
+    --primaryColorLight:  #2689cc;
+    --primaryColorLighte:#3795d5;
+    --primaryColorLighter:#4fa2de;
+    --primaryColorTransparent: rgba(27, 124, 194, 0.9);
+    --primaryColorTransparenter: rgba(27, 124, 194, 0.7);
     --secondaryColor: #fff;
     --secondaryColorDarker: #eaeaea;
     --textColorLight: #fff;

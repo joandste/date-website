@@ -20,7 +20,7 @@
   }
   
 .evet-card > .card {
-    background: var(--primaryColorLight);
+    background: var(--secondaryColor);
   }
   
 .card-body a{
@@ -43,6 +43,11 @@
     box-shadow: none;
   }
 
-.event-date-txt{
-  white-space: nowrap;
-}
+  .event-date-txt{
+    white-space: nowrap;
+    color: black;
+  }
+  
+  .card-title{
+    color: black;
+  }
