@@ -19,8 +19,8 @@
     --helpTextLighter: rgb(199, 199, 199);
     --linkColorDark: #3a80c3;
     --linkColorDarkHover: #26547f;
-    --linkColorLight: rgb(208, 255, 0);
-    --linkColorLightHover: rgb(146, 179, 0);
+    --linkColorLight: rgb(255, 187, 0);
+    --linkColorLightHover: rgb(224, 169, 16);
     --warning: rgb(216, 153, 146);
     --warning-darker: rgb(213, 91, 78);
     --navClickHighlight: rgba(255, 255, 255, 0.25);

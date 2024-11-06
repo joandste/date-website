@@ -4,7 +4,7 @@ html {
 
 html body{
     background-color: var(--primaryColor);
-    color: var(--textColorLightish);
+    color: black;
     font-family: 'Josefin Sans', sans-serif;
 }
 
@@ -57,7 +57,7 @@ div a:hover{
 
 .content{
     margin: 20px 2vw;
-    background-color: var(--primaryColorLight);
+    background-color: var(--secondaryColor);
     padding: var(--defaultPadding);
     border-radius: var(--defaultRadius);
 }
@@ -108,3 +108,7 @@ div a:hover{
   }
 
 /* ---- */
+
+.text-center{
+    color: var(--textColorLightish);
+}
