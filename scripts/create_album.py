@@ -3,7 +3,7 @@ Usage:
     python scripts/create_album.py title dir/
 
 Docker usage:
-    docker-compose run -v host/dir:code/img:ro web python scripts/create_album.py title img/
+    docker compose run -v host/dir:code/img:ro web python scripts/create_album.py title img/
 """
 import datetime
 import sys
